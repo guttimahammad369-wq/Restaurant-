@@ -64,19 +64,6 @@ Then submit order instantly.
 
 Users can send messages using EmailJS.
 
-📸 Screenshots (Optional)
-
-Add your website screenshots here:
-
-Home Page
-
-Full Menu
-
-Chefs
-
-Gallery
-
-Order Form
 
 🧪 Future Enhancements
 
